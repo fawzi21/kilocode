@@ -1,8 +1,6 @@
 # kilo-code
 
-## 4.83.2
-
-### Patch Changes
+## [v4.83.2]
 
 - [#2090](https://github.com/Kilo-Org/kilocode/pull/2090) [`fd147b8`](https://github.com/Kilo-Org/kilocode/commit/fd147b8ed35c8963ec66c5fae89f37829529574f) Thanks [@Mats4k](https://github.com/Mats4k)! - Improvements to German language translation
 
